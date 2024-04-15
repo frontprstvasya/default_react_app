@@ -1,0 +1,36 @@
+.red_button{
+    background-color: red;
+    color: #fff;
+    font-weight: 700;
+    padding: 20px;
+    margin-right: 20px;
+    cursor: pointer;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    width: 400px;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+}
+
+.black_button{
+    background-color: black;
+    color: #fff;
+    font-weight: 700;
+    padding: 20px;
+    cursor: pointer;
+}
+
+.value{
+    color: green;
+    font-size: 24px;
+    font-weight: 700;
+    margin-bottom: 20px;
+}
+
+.icon{
+    color: green;
+}
